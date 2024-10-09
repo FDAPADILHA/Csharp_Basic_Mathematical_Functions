@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharp_Basic_Mathematical_Functions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c6545477759fe9ac8cfe8e65b2a16b4886e185b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0731306de5b1307240b5a88a3e77a01e49a1f1f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharp_Basic_Mathematical_Functions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharp_Basic_Mathematical_Functions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
